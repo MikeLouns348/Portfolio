@@ -110,6 +110,10 @@ section {
     margin-top: 30px;
 }
 
+.nav-item {
+    text-shadow: 1px 3px 4px rgba(0, 0, 0, 0.9);
+}
+
 .navitem_1 {
     color: rgba(248, 167, 45, 0.966);
 
