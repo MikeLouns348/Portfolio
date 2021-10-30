@@ -166,7 +166,9 @@ HOME SECTION STYLES
 -------------------------*/
 
 #home {
-    background: url(../images/Thumb/wallpaper.jpg   ) no-repeat 50% 50%;
+    background: url(../images/BG2.png) no-repeat 50% 50%;
+    background-color: #6c757d;
+    background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -366,7 +368,9 @@ CONTACT STYLES
     background-color: rgb(85, 85, 85);
     box-shadow: -1px -1px 1px 0 rgba(0, 0, 0, 1) , 1px 2px 10px 0 rgba(0, 0, 0, 0.5);
 }
-
+.nav li {
+    text-shadow: rgba(0, 0, 0, 0.9);
+}
 .reservation h2 {
     width: 70%;
     text-align: center;
