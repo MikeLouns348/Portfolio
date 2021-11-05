@@ -82,12 +82,14 @@ h4 {
 }
 
 h5 {
-    line-height: 50px;
-    font-weight: 900;
-    font-size: 30px;
-    text-align: center;
-    color: #ffffff;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    line-height: 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 900;
+font-size: 75px;
+text-transform: uppercase;
+text-align: center;
+color: #4d4d4d;
+text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
 
 p {
@@ -204,8 +206,8 @@ HOME SECTION STYLES
 }
 
 #nova {
-    background: url(../images/nova01.jpg) no-repeat 50% 50%;
-    background-position-y: 42%;
+    background: url(../images/nova01.png) no-repeat 50% 50%;
+    background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -221,7 +223,7 @@ HOME SECTION STYLES
 
 #swup {
     background: url(../images/swup01.png) no-repeat 50% 50%;
-    background-position-y: 55%;
+    background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -237,7 +239,7 @@ HOME SECTION STYLES
 
 #alliance {
     background: url(../images/alliance01.png) no-repeat 50% 50%;
-    background-position-y: 0%;
+    background-position-y: 1%;;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -253,6 +255,7 @@ HOME SECTION STYLES
 
 #cardbrawl {
     background: url(../images/cardbrawl01.PNG) no-repeat 50% 50%;
+    background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -267,7 +270,8 @@ HOME SECTION STYLES
 }
 
 #shopheroes {
-    background: url(../images/shopheroes01.jpg   ) no-repeat 50% 50%;
+    background: url(../images/shopheroes01.png   ) no-repeat 50% 50%;
+    background-position-y: 1%;
     background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
