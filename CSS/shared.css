@@ -191,6 +191,7 @@ HOME SECTION STYLES
 
 #xmen {
     background: url(../images/xmen02.png   ) no-repeat 50% 50%;
+    background-color: #6c757d;
     background-position-y: 1%;
     background-attachment: fixed;
     -webkit-background-size: cover;
@@ -209,6 +210,7 @@ HOME SECTION STYLES
     background: url(../images/nova01.png) no-repeat 50% 50%;
     background-position-y: 1%;
     background-attachment: fixed;
+    background-color: #6c757d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -225,6 +227,7 @@ HOME SECTION STYLES
     background: url(../images/swup01.png) no-repeat 50% 50%;
     background-position-y: 1%;
     background-attachment: fixed;
+    background-color: #6c757d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -241,6 +244,7 @@ HOME SECTION STYLES
     background: url(../images/alliance01.png) no-repeat 50% 50%;
     background-position-y: 1%;;
     background-attachment: fixed;
+    background-color: #6c757d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -257,6 +261,7 @@ HOME SECTION STYLES
     background: url(../images/cardbrawl01.PNG) no-repeat 50% 50%;
     background-position-y: 1%;
     background-attachment: fixed;
+    background-color: #6c757d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -274,6 +279,7 @@ HOME SECTION STYLES
     background-position-y: 1%;
     background-position-y: 1%;
     background-attachment: fixed;
+    background-color: #6c757d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
