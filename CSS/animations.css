@@ -10,6 +10,7 @@ MENU SELECTION
     margin: 0% auto;
     padding: 0;
     text-decoration: none;
+    animation: movePopup 5s;
 }
 
 .menu li  {
