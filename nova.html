@@ -34,7 +34,7 @@
 					<a class="nav-link" href="Resume_Michael_Lounsbury.pdf" target="new" style="color:rgb(71, 193, 161)">Resume</a>
 				  </li> 
 				  <li class="nav-item">
-					<a onclick="openForm()" ondblclick="closeForm()" class="nav-link" style="color:rgb(71, 193, 161)">Contact</a>
+					<a href="#" onclick="openForm()" ondblclick="closeForm()" class="nav-link" style="color:rgb(71, 193, 161)">Contact</a>
 				  </li>				 
 				  <li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color:rgba(248, 167, 45, 0.966)">
@@ -103,7 +103,7 @@
 			<button onclick="openForm()" class="Pop_Up_Button">CONTACT</button>
 			<div class="form-popup" id="myForm">
 				 <form action="https://formspree.io/f/mgerbbbr" method="POST" class="form-container"> <!-- Here we are using a free online service from https://formspree.io/ to send our contact form to an email address of our choosing - note: it will not run unless live on the internet, you have to push it to your online website first -->
-					 <h1>Contact</h1>
+					<h1 id=formHeading>Contact</h1>
 					 <label for="name"><b>Name</b></label>
 					   <input type="text" placeholder="Type your name here" name="name" required>
 					 <label for="phone"><b>Phone</b></label>
