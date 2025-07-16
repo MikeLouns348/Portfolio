@@ -229,7 +229,7 @@ HOME SECTION STYLES
 -------------------------*/
 
 #home {
-    background: url(../images/BG4.png) no-repeat 50% 50%;
+    background: url(../images/BG3.png) no-repeat 50% 50%;
     background-color: #6c757d;
     background-position-y: 1%;
     background-attachment: fixed;
@@ -264,6 +264,23 @@ HOME SECTION STYLES
 
 #nova {
     background: url(../images/nova01.png) no-repeat 50% 50%;
+    background-position-y: 1%;
+    background-attachment: fixed;
+    background-color: #6c757d;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 400px;
+    padding-bottom: 150px;
+    color: rgb(255, 255, 255);
+}
+
+#war {
+    background: url(../images/warofnova01.png) no-repeat 50% 50%;
     background-position-y: 1%;
     background-attachment: fixed;
     background-color: #6c757d;
